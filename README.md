@@ -1,11 +1,15 @@
 Flappy bird (Pygame)
 
 A simple Flappy bird built with Python and Pygame.
+
 ---
+
 Controls
 
 Space Key - Move the bird upwards
+
 ---
+
 Requirements
 
 Python 3.9+ Pygame
@@ -13,7 +17,9 @@ Python 3.9+ Pygame
 Install Pygame with:
 
 pip install pygame
+
 ---
+
 How to Run
 
 Clone or download this repository
